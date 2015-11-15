@@ -1,0 +1,9 @@
+helloo macinko moq
+:%s/\d\+/foo/g   - replace numbers with fo
+
+
+replace 'foo' or 'bar' with my name
+
+
+replace digit with '[number]digit'
+example: 4 -> 4digit

@@ -1,0 +1,1 @@
+:%s/\d\+/foo/g   - replace numbers with foo
